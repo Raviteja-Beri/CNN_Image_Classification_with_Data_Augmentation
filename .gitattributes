@@ -1,2 +1,0 @@
-Data_Augmentation/* filter=lfs diff=lfs merge=lfs -text
-Data_Augmentation/**/* filter=lfs diff=lfs merge=lfs -text
